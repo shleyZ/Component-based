@@ -1,6 +1,4 @@
-/**
- * Created by zhulei on 2017/10/31.
- */
+
 var Class = (function() {
     var _mix = function(r, s) {
         for (var p in s) {
